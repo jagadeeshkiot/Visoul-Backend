@@ -99,7 +99,8 @@ URL: http://localhost:8080/
 }
 ```
 reveice a succussfull message!!!
-###6️⃣ Docker Setup (Optional if ur depolying in Render)
+
+### 6️⃣ Docker Setup (Optional if ur depolying in Render)
 ```version: "3.8"
 services:
   mysql:
