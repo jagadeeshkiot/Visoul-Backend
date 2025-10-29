@@ -132,8 +132,7 @@ networks:
     driver: bridge
 ```
 ----
-## Docker
-👥 Contributors
+## Contact
 
--S Jagadeesh – Backend Developer
--sjagadeesg668@gmail - Email
+**Jagadeesh S**  
+📧 sjagadeesh668@gmail.com  
