@@ -135,5 +135,5 @@ networks:
 ## Docker
 👥 Contributors
 
-S Jagadeesh – Backend Developer
-sjagadeesg668@gmail - Email
+-S Jagadeesh – Backend Developer
+-sjagadeesg668@gmail - Email
