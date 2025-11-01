@@ -10,8 +10,7 @@ It handles user email subscriptions and securely stores them in a **MySQL databa
 This backend service provides secure APIs for managing data, authentication, and business logic for the project.
 
 ---
----
-# 🖼️ Database Screenshot (Railway)
+## 🖼️ Database Screenshot (Railway)
 
 Below is the MySQL database hosted on **Railway**, used by the Visoul Backend for storing email subscriptions.
 
