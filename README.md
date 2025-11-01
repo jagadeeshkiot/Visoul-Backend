@@ -1,16 +1,19 @@
-# Visoul-Backend
-The Visoul Backend is a RESTful API built with Spring Boot that powers the Visouls Coming Soon Website. It handles email subscriptions from users and securely stores them in a MySQL database hosted on Railway.
-# 🚀 Spring Boot Backend API
+# 🖥️ Visoul Backend
 
-## 📘 Overview
-This is a RESTful backend service built with **Spring Boot** and **MySQL**.  
-It provides secure APIs for managing data, authentication, and business logic for the project.
+The **Visoul Backend** is a RESTful API built with **Spring Boot** that powers the **Visouls Coming Soon Website**.  
+It handles user email subscriptions and securely stores them in a **MySQL database** hosted on **Railway**.
 
+---
+
+## 🚀 Overview
+
+This backend service provides secure APIs for managing data, authentication, and business logic for the project.
+
+---
 ---
 # 🖼️ Database Screenshot (Railway)
 
 Below is the MySQL database hosted on **Railway**, used by the Visoul Backend for storing email subscriptions.
-
 
 <img width="1898" height="917" alt="DB" src="https://github.com/user-attachments/assets/4eea6709-546b-4e7a-9954-166d2a5274f9" />
 
