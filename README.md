@@ -10,6 +10,8 @@ It provides secure APIs for managing data, authentication, and business logic fo
 # 🖼️ Database Screenshot (Railway)
 
 Below is the MySQL database hosted on **Railway**, used by the Visoul Backend for storing email subscriptions.
+
+
 <img width="1898" height="917" alt="DB" src="https://github.com/user-attachments/assets/4eea6709-546b-4e7a-9954-166d2a5274f9" />
 
 ---
