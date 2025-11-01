@@ -7,7 +7,12 @@ This is a RESTful backend service built with **Spring Boot** and **MySQL**.
 It provides secure APIs for managing data, authentication, and business logic for the project.
 
 ---
+# 🖼️ Database Screenshot (Railway)
 
+Below is the MySQL database hosted on **Railway**, used by the Visoul Backend for storing email subscriptions.
+<img width="1898" height="917" alt="DB" src="https://github.com/user-attachments/assets/4eea6709-546b-4e7a-9954-166d2a5274f9" />
+
+---
 ## 🧱 Tech Stack
 ------------------------------------
 | Layer          | Technology      |
